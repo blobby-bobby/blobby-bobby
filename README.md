@@ -14,7 +14,7 @@ After 5 years as a designer, I started again to code, and remembered how much I 
 Right now, I'm working to be at ease with **TypeScript**, discovering the fantastic world of preprocessors like **SASS**. And testing some cool libs on **React**.
 
 ## 🛠 Skills
-Javascript, HTML5, CSS3, SASS, TypeScript, ReactJS, NextJS, Express, Bootstrap, TailwindCSS
+Javascript, HTML5, CSS3, SASS, TypeScript, ReactJS, NextJS, Express, Bootstrap, TailwindCSS, Figma
 
 ## 🔗 Where to find me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bulle-ouvrard/)
