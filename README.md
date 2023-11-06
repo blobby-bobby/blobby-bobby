@@ -1,16 +1,33 @@
 # 👋 Hello world, I am Bulle
 
 - 👩‍💻 Frontend Developer && 🎨 Creative Developer
-- 🧠 Working on TypeScript, React, SASS, and some cool animations
 - 🎓 Graduated as a Fullstack Developper but I prefer working on frontend tech
+- In France 🥖
 
-## 😊 About me
+# 😊 About me
 
 After 5 years as a designer, I started again to code, and remembered how much I love it, so I decided to become a pro. As a former designer, on my work, I value clean code, beautiful interfaces and great user experience. 
 🔭 Looking for opportunities to grow as a **Frontend Developper**. 
 
-## 🛠 Skills
-Javascript, HTML5, CSS3, SASS, TypeScript, ReactJS, NextJS, Bootstrap, TailwindCSS, Figma, Adobe (Photoshop, Illustrator, Indesign, After Effects, etc)
+# 🧠 Practicing & Working on
 
-## 🔗 Where to find me
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+# 🛠 Current Skills
+
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+
+
+# 🔗 Where to find me
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bulle-ouvrard/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bulle_ouvrard/)
