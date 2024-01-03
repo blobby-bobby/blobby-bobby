@@ -7,14 +7,15 @@
 # 😊 About me
 
 After 5 years as a designer, I started again to code, and remembered how much I love it, so I decided to become a pro. As a former designer, on my work, I value clean code, beautiful interfaces and great user experience. 
-🔭 Looking for opportunities to grow as a **Frontend Developper**. 
+🔭 Looking for opportunities to grow as a **Frontend Developper**. Crafting amusing front-end experiences !
 
 # 🧠 Practicing & Working on
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 
 # 🛠 Current Skills
 
