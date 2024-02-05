@@ -1,13 +1,12 @@
 # 👋 Hello world, I am Bulle
 
-- 👩‍💻 Frontend Developer && 🎨 Creative Developer
-- 🎓 Graduated as a Fullstack Developper but I prefer working on frontend tech
+- 👩‍💻 Frontend Developer who can design 🎨
+- 🎓 Graduated as Fullstack Devveloper
 - In France 🥖
 
 # 😊 About me
 
-After 5 years as a designer, I started again to code, and remembered how much I love it, so I decided to become a pro. As a former designer, on my work, I value clean code, beautiful interfaces and great user experience. 
-🔭 Looking for opportunities to grow as a **Frontend Developper**. Crafting amusing front-end experiences !
+Crafting amusing front-end experiences ! Caring for app performance, for clean code, and for giving the best user experience possible !
 
 # 🧠 Practicing & Working on
 
