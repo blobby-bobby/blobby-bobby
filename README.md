@@ -1,7 +1,7 @@
 # 👋 Hello world, I am Bulle
 
 - 👩‍💻 Frontend Developer who can design 🎨
-- 🎓 Graduated as Fullstack Devveloper
+- 🎓 Graduated as Fullstack Developer
 - In France 🥖
 
 # 😊 About me
